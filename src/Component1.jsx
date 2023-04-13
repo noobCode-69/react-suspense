@@ -8,7 +8,7 @@ function Component1() {
     return data.count;
   });
 
-  return <div>{data}</div>;
+  return <div>DATA1: {data}</div>;
 }
 
 export default Component1;
